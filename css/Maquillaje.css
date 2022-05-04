@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: white;
+    color: black;
+}
+.cont_footer{
+    background-color: rgba(1, 1, 1, 0.7);
+    padding: 3%;
+    color: #fff;
+    margin-top: 100px;
+}
+p {
+    color: rgb(255, 255, 255); 
+}
