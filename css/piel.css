@@ -23,3 +23,8 @@ body {
 p {
     color: rgb(255, 255, 255); 
 }
+.nav{
+    background-color: rgb(214, 214, 214);
+    text-decoration: rgb(26, 25, 25);
+    font-size: 30px;
+}
