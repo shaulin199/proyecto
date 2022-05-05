@@ -17,8 +17,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Cormorant Garamond', serif;
-    background-color: rgb(186, 227, 229);
+    background-image: url("imagen/Paisaje2.jpg");
     color: black;
+
 }
 .cont_footer{
     background-color: rgba(1, 1, 1, 0.7);
