@@ -12,6 +12,7 @@ h1.cloud{
 }
 body {
     height: 100vh;
+    background-color: aquamarine;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -33,4 +34,8 @@ p {
     background-color: rgb(214, 214, 214);
     text-decoration: rgb(26, 25, 25);
     font-size: 30px;
+}
+.container-A{
+  position: relative;
+  float: inline-end;
 }
