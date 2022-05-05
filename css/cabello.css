@@ -12,7 +12,7 @@ h1.cloud{
 }
 body {
     height: 100vh;
-    background-color: aquamarine;
+    background-color: rgb(120, 168, 152);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
