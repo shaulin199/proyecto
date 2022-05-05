@@ -26,7 +26,7 @@ body {
     background-color: white;
     color: black;
     text-justify: auto;
-    
+    background-image: url("../imagen/Paisaje2.jpg");
 }
 .cont_footer{
     background-color: rgba(1, 1, 1, 0.7);

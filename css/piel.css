@@ -17,7 +17,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Cormorant Garamond', serif;
-    background-image: url("imagen/Paisaje2.jpg");
+    background-image: url("../imagen/Paisaje2.jpg");
     color: black;
 
 }
